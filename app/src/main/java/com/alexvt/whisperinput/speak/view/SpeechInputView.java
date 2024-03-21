@@ -987,6 +987,7 @@ public class SpeechInputView extends LinearLayoutCompat {
                 mListener.onFinalResult(results, bundle);
             }
             setGuiInitState(0);
+
             // todo remove when not auto ending IME
             mBImeKeyboard.callOnClick();
             mBtnType = "Y";

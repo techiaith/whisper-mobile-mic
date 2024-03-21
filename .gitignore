@@ -12,3 +12,5 @@ usage.txt
 *.apk
 testdata/
 materials/
+*.pepk
+release/

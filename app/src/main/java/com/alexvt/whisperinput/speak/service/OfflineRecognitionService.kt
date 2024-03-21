@@ -114,7 +114,6 @@ class OfflineRecognitionService : AbstractRecognitionService() {
     }
 
     companion object {
-
         private var whisperRecognitionModel: WhisperRecognitionModel? = null
     }
 }
