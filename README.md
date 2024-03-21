@@ -1,3 +1,25 @@
+# Mewnbwn leferydd drwy'r meicroffon o fewn bysellfwrdd arferol eich ffôn symudol
+
+Addaswyd y cod WhisperInput yma i arbrofi gyda chynnwys [model adnabod lleferydd Cymraeg all-lein](https://github.com/techiaith/whisper.cpp/tree/cymraeg_v1) 
+gyda meicroffon sydd ar gael o fewn bysellfwrdd arferol eich ffôn symudol. Dim ond ffonau Android sydd yn bosib eu hehangu ar y moment. 
+
+Golygir hyn bod modd lefaru eich neges yn lle ei theipio o fewn unrhyw un app ar eich dyfais e.e. WhatsApp, Facebook Messenger, Outlook a gmail.
+
+Yn anffodus, nid yw'r pecyn yn ddigon sefydlog ar gyfer defnydd pob dydd gan ddefnyddwyr. Mae'n aml yn crashio ac yn rhy araf yn rhoi trawsgrifiad.
+
+
+# Speech input via the microphone within your mobile's keyboard
+
+This is a modified version of WhisperInput for experimenting with [offline Welsh speech recognition models](https://github.com/techiaith/whisper.cpp/tree/cymraeg_v1)
+within the microphone available mobile phone keyboards. Only Android phones are supported at the moment.
+
+This means that your speak your message instead of typing within any one app on your device e.g. WhatsApp, Facebook Messenger, Outlook and gmail.
+
+Unfortunately, the package is not stable enough for everyday use by users. It crashes too often and transcribes too slowly.
+
+
+---
+
 # WhisperInput
 
 Offline voice input panel & keyboard with punctuation for Android, experimental, powered by Whisper AI & Kõnele components.
